@@ -23,7 +23,7 @@ export default function NukaColaHome() {
 
               <div className="logo-placeholder">
                 <div className="inner-logo">
-                  <Image src="./img/273be08c-3a32-46f6-a21c-d6bb3da22b85-removebg-preview.png" alt="Nuka-Cola Logo" />
+                  <Image src="/img/273be08c-3a32-46f6-a21c-d6bb3da22b85-removebg-preview.png" alt="Nuka-Cola Logo" />
                 </div>
               </div>
             </div>
