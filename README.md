@@ -1,36 +1,42 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+--DE--
 
-## Getting Started
+Nuka-Cola Website
+Beschreibung:
+Diese Website präsentiert eine fiktive Nuka-Cola Produktseite mit verschiedenen Geschmacksrichtungen und Details. 
+Nuka-Cola ist ein Getränk aus der Fallout-Serie, und die Seite versucht, mit dem von mir gestalteten Styling genau diese Atmosphäre einzufangen.
 
-First, run the development server:
+Verwendete Technologien:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Next.js (React Framework)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+React
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Node.js / npm
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+CSS Module / Styling
 
-## Learn More
+Zugriff:
+Die Website läuft auf einem Server und ist über die IP-Adresse https://nuka-cola-website-xire.vercel.app/ im Browser erreichbar. Darüber hinaus können Sie es auch einfach auf Ihrem lokalen Host ausführen.
+(Stelle sicher, dass der Port 3000 offen ist.)
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+--EN--
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Nuka-Cola Website
+Description:
+This website presents a fictional Nuka-Cola product page with various flavors and details.
+Nuka-Cola is a drink from the Fallout series, and the site attempts to capture that atmosphere with the styling I created.
 
-## Deploy on Vercel
+Technologies Used:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Next.js (React framework)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+React
+
+Node.js / npm
+
+CSS Module / Styling
+
+Access:
+The website runs on a server and can be accessed via the IP address https://nuka-cola-website-xire.vercel.app/ in your browser. Additionally, You can also just run it on your localhost.
+(Make sure port 3000 is open.)
