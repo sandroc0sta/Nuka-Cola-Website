@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 
 export default function NukaColaHome() {
   return (
@@ -22,7 +23,7 @@ export default function NukaColaHome() {
 
               <div className="logo-placeholder">
                 <div className="inner-logo">
-                  <img src="./img/273be08c-3a32-46f6-a21c-d6bb3da22b85-removebg-preview.png" alt="Nuka-Cola Logo" />
+                  <Image src="./img/273be08c-3a32-46f6-a21c-d6bb3da22b85-removebg-preview.png" alt="Nuka-Cola Logo" />
                 </div>
               </div>
             </div>
@@ -66,8 +67,8 @@ export default function NukaColaHome() {
         <section id="about" className="about-section">
           <h2>Since 2044</h2>
           <p>
-            Nuka-Cola Corporation has been America's favorite soft drink for over 30 years. From our humble beginnings to
-            becoming the most popular beverage in the wasteland, we've always been committed to bringing you that perfect
+            Nuka-Cola Corporation has been America&apos;s favorite soft drink for over 30 years. From our humble beginnings to
+            becoming the most popular beverage in the wasteland, we&apos;ve always been committed to bringing you that perfect
             blend of flavor and refreshment.
           </p>
         </section>

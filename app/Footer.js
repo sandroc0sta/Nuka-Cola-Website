@@ -8,26 +8,26 @@ export default function Footer() {
           <p>Nuka-Cola Corporation</p>
           <p>Est. 2044</p>
           <p>Washington D.C.</p>
-          <p>Pre-War America's #1 Soft Drink</p>
+          <p>Pre-War America&apos;s #1 Soft Drink</p>
         </section>
 
         <section className="footer-section">
           <h3>Products</h3>
           <ul>
             <li>
-              <a className="footer-products" href="/product/classic">Nuka-Cola Classic</a>
+              <Link className="footer-products" href="/product/classic">Nuka-Cola Classic</Link>
             </li>
             <li>
-              <a className="footer-products" href="/product/quantum">Nuka-Cola Quantum</a>
+              <Link className="footer-products" href="/product/quantum">Nuka-Cola Quantum</Link>
             </li>
             <li>
-              <a className="footer-products" href="/product/cherry">Nuka-Cherry</a>
+              <Link className="footer-products" href="/product/cherry">Nuka-Cherry</Link>
             </li>
             <li>
-              <a className="footer-products" href="/product/dark">Nuka-Cola Dark</a>
+              <Link className="footer-products" href="/product/dark">Nuka-Cola Dark</Link>
             </li>
             <li>
-              <a className="footer-products" href="/product/grape">Nuka-Grape</a>
+              <Link className="footer-products" href="/product/grape">Nuka-Grape</Link>
             </li>
           </ul>
         </section>

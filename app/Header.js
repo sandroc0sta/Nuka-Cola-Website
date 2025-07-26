@@ -8,13 +8,13 @@ export default function Header() {
             <Link href="/#products">Our Products</Link>
           </li>
           <li>
-            <a href="/#about">Company History</a>
+            <Link href="/#about">Company History</Link>
           </li>
           <li>
-            <a href="/#locations">Locations</a>
+            <Link href="/#locations">Locations</Link>
           </li>
           <li>
-            <a href="/#contact">Contact</a>
+            <Link href="/#contact">Contact</Link>
           </li>
         </nav>
       </header>
