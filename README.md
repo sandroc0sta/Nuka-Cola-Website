@@ -1,6 +1,5 @@
 --DE--
 
-Nuka-Cola Website
 Beschreibung:
 Diese Website präsentiert eine fiktive Nuka-Cola Produktseite mit verschiedenen Geschmacksrichtungen und Details. 
 Nuka-Cola ist ein Getränk aus der Fallout-Serie, und die Seite versucht, mit dem von mir gestalteten Styling genau diese Atmosphäre einzufangen.
@@ -22,7 +21,6 @@ Die Website läuft auf einem Server und ist über die IP-Adresse https://nuka-co
 
 --EN--
 
-Nuka-Cola Website
 Description:
 This website presents a fictional Nuka-Cola product page with various flavors and details.
 Nuka-Cola is a drink from the Fallout series, and the site attempts to capture that atmosphere with the styling I created.
